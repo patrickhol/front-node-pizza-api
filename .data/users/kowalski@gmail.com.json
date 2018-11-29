@@ -1,0 +1,28 @@
+{
+    "name": "Patryk Kowalski",
+    "email": "kowalski@gmail.com",
+    "street": "Kozuchowska 30/7",
+    "shoppingCart": [{
+        "cartId": "hfbz2s8g5n4wbwmmzlc3",
+        "menuId": 2,
+        "quantity": 1,
+        "name": "Margarita",
+        "size": "big",
+        "sum": 30
+    }, {
+        "cartId": "2sxb6i5848ttg5s8oqje",
+        "menuId": 2,
+        "quantity": 1,
+        "name": "Margarita",
+        "size": "big",
+        "sum": 30
+    }, {
+        "cartId": "1n8id0fxi4d4r03t30y0",
+        "menuId": 4,
+        "quantity": 1,
+        "name": "Salami",
+        "size": "big",
+        "sum": 36
+    }],
+    "orders": ["m50p38kr1xt6j4zgo9cc", "89bhrdyzkz6tnwexo68b", "l9rulxu14n02iu32sphr", "69dn8arhltwcznkxg6ka", "cfilxfue7ybeyjslc94j", "gc9irgq7lrysz57e580d", "9ymy111u7f12weudcae6", "his17xxsolsqd4juwq2s", "0uusx9swqzxbs1oq7qn1", "bo3gx04eyeee51dpdber", "i22r9nphrtwla5knyy16", "e1q6tg3efhbet0yy1xph"]
+}
