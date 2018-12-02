@@ -1,0 +1,10 @@
+{
+  "email": "kowalski@gmail.com",
+  "id": "san4zqz3padcaleb3q11",
+  "amount": 106,
+  "currency": "usd",
+  "description": "\nName: Margarita\nSize: big\n Quantity: 1\nSum: 30 usd\nName: Salami\nSize: big\n Quantity: 1\nSum: 36 usd\nName: Pepperoni\nSize: big\n Quantity: 1\nSum: 40 usd",
+  "source": "tok_visa",
+  "paymentStatus": true,
+  "time": 1543756001480
+}

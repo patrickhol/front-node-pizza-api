@@ -1,0 +1,10 @@
+{
+    "email": "testkowalski@gmail.com",
+    "id": "w5gm230hwnoqlhxaytbc",
+    "amount": 330,
+    "currency": "usd",
+    "description": "\nName: Margarita\nSize: small\n Quantity: 1\nSum: 22 usd\nName: Pepperoni\nSize: small\n Quantity: 1\nSum: 25 usd\nName: Salami\nSize: big\n Quantity: 1\nSum: 36 usd\nName: Diabolo\nSize: big\n Quantity: 5\nSum: 210 usd\nName: Angel\nSize: big\n Quantity: 1\nSum: 37 usd",
+    "source": "tok_visa",
+    "paymentStatus": true,
+    "time": 1543756040322
+}
